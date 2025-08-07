@@ -2,6 +2,4 @@
 - 👀 I’m interested in Full stack web development & AI&ML
 - 🌱 I’m just completed full stack learning
 - 💞️ I’m looking to collaborate with any person who are ready to join with me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 - ML Engineer
